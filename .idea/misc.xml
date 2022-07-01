@@ -3,8 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/rafael.efjunior/Documents/ProjetoAndroid/MyBike/app/src/main/res/layout/acessorios_layout.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/rafael.efjunior/Documents/ProjetoAndroid/MyBike/app/src/main/res/layout/activity_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/rafael.efjunior/Documents/ProjetoAndroid/MyBike/app/src/main/res/layout/catalogo_layout.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/rafael.efjunior/Documents/ProjetoAndroid/MyBike/app/src/main/res/layout/clientes_layout.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/rafael.efjunior/Documents/ProjetoAndroid/MyBike/app/src/main/res/layout/manutecao_layout.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/rafael.efjunior/Documents/ProjetoAndroid/MyBike/app/src/main/res/layout/menu_principal_layout.xml" value="0.22" />
+        <entry key="..\:/Users/rafael.efjunior/Documents/ProjetoAndroid/MyBike/app/src/main/res/layout/reservas_layout.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/rafael.efjunior/Documents/ProjetoAndroid/MyBike/app/src/main/res/layout/venda_layout.xml" value="0.27291666666666664" />
       </map>
     </option>
   </component>
